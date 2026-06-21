@@ -19,7 +19,7 @@ AI Infrastructure Engineer
 
 Interested in Distributed Training, CUDA, RLHF, and Agent Systems.
 
-M.S. @ UESTC • Ex-Huawei • Ex-JD
+M.S. @ UESTC • Ex-Huawei
 
 🌐 [Personal Website](https://nathon-lee.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/nathon-lee-3433443a5) • 📧 [Email](mailto:leejianwoo@gmail.com)
 
