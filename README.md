@@ -21,6 +21,6 @@ Interested in Distributed Training, CUDA, RLHF, and Agent Systems.
 
 M.S. @ UESTC • Ex-Huawei • Ex-JD
 
-🌐 nathon-lee.github.io • 💼 LinkedIn • 📧 [leejianwoo@gmail.com](mailto:leejianwoo@gmail.com)
+🌐 [Personal Website](https://nathon-lee.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/nathon-lee-3433443a5) • 📧 [Email](mailto:leejianwoo@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathon-lee\&show_icons=true)
