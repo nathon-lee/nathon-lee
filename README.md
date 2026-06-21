@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nathon Lee
+Senior Software Engineer | AI Infrastructure | Distributed Systems
+
+Ex-Huawei | Ex-JD.com
+M.S. @ UESTC
+
+Research Interests:
+• Distributed Training Systems
+• CUDA & GPU Architecture
+• RLHF & Agent Systems
+• Efficient LLM Training
+
+Open Source:
+• DeepSpeed Contributor
+• OpenRLHF Contributor
+• Ray RLlib Contributor
+
+Currently:
+🔭 Learning CUDA and GPU systems
+🌱 Building AI Infrastructure
+📖 Exploring Large-Scale Training Systems
