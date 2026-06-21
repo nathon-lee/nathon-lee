@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nathon-lee/nathon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,24 +13,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Nathon Lee
-Senior Software Engineer | AI Infrastructure | Distributed Systems
+# Hi there 👋 I'm Nathon Lee
 
-Ex-Huawei | Ex-JD.com
-M.S. @ UESTC
+Senior Software Engineer focused on:
 
-Research Interests:
-• Distributed Training Systems
-• CUDA & GPU Architecture
-• RLHF & Agent Systems
-• Efficient LLM Training
+- Distributed Systems
+- AI Infrastructure
+- Large-scale Model Training
+- CUDA & GPU Performance Optimization
+- RLHF Systems
 
-Open Source:
-• DeepSpeed Contributor
-• OpenRLHF Contributor
-• Ray RLlib Contributor
+## About Me
 
-Currently:
-🔭 Learning CUDA and GPU systems
-🌱 Building AI Infrastructure
-📖 Exploring Large-Scale Training Systems
+- 🎓 M.S. in Computer Science, University of Electronic Science and Technology of China (UESTC)
+- 💼 Ex-Huawei | Ex-JD.com
+- 🔭 Working on DeepSpeed, RLHF, and LLM Infrastructure
+- 🌱 Learning CUDA, GPU Architecture, and LLM Training Systems
+
+## Open Source Contributions
+
+### DeepSpeed
+- AutoSP (#7984)
+- PR #7908
+- PR #7928
+- PR #7763
+- PR #7940
+- PR #7934
+
+### Other Projects
+- OpenRLHF #1206
+- Ray RLlib #61823
+- Tinker Cookbook #172
+- Tinker Cookbook #286
+
+## Research Interests
+
+- Distributed Training Systems
+- Reinforcement Learning from Human Feedback (RLHF)
+- Agent Systems
+- Efficient LLM Training and Inference
+
+## Contact
+
+🌐 Website: [nathon-lee.github.io](https://nathon-lee.github.io)
+🐙 GitHub: [@nathon-lee](https://github.com/nathon-lee)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nathon-lee-3433443a5)
+📧 Email: leejianwoo@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathon-lee&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathon-lee&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=nathon-lee)
