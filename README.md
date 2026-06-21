@@ -23,4 +23,6 @@ M.S. @ UESTC • Ex-Huawei • Ex-JD
 
 🌐 [Personal Website](https://nathon-lee.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/nathon-lee-3433443a5) • 📧 [Email](mailto:leejianwoo@gmail.com)
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathon-lee\&show_icons=true)
+-->
